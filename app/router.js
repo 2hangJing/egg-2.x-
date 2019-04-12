@@ -1,8 +1,18 @@
-module.exports = app=>{
+module.exports = app => {
 
-    const { router, controller} = app;
+    /**
+     * page routers
+     */
+    require("./router/router_page")(app);
 
-    router.get("/", controller.home.index);
+    /**
+     * GET api
+     */
+    require("./router/router_api_get")(app);
 
-    router.get("/news", controller.news.index);
+
+    /**
+     * POST api
+     */
+    require("./router/router_api_post")(app);
 };

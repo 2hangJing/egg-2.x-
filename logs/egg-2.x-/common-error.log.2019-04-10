@@ -1,0 +1,710 @@
+2019-04-09 12:43:14,519 ERROR 8008 nodejs.ClusterClientNoResponseError: client no response in 508111ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (E:\GitHub\egg-2.x-\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+name: "ClusterClientNoResponseError"
+pid: 8008
+hostname: AFOED-904081130
+
+2019-04-09 12:48:12,694 ERROR 8008 nodejs.ClusterClientNoResponseError: client no response in 258160ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (E:\GitHub\egg-2.x-\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+name: "ClusterClientNoResponseError"
+pid: 8008
+hostname: AFOED-904081130
+
+2019-04-09 13:58:55,771 ERROR 8008 nodejs.ClusterClientNoResponseError: client no response in 942949ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (E:\GitHub\egg-2.x-\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+name: "ClusterClientNoResponseError"
+pid: 8008
+hostname: AFOED-904081130
+
+2019-04-09 14:13:11,333 ERROR 5464 [-/::1/-/2ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find /app/view/list.html from E:\GitHub\egg-2.x-\app\view
+    at Map.resolve (E:\GitHub\egg-2.x-\node_modules\_egg-view@2.1.2@egg-view\lib\view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 5464
+hostname: AFOED-904081130
+
+2019-04-09 14:13:13,646 ERROR 5464 [-/::1/-/1ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find /app/view/list.html from E:\GitHub\egg-2.x-\app\view
+    at Map.resolve (E:\GitHub\egg-2.x-\node_modules\_egg-view@2.1.2@egg-view\lib\view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 5464
+hostname: AFOED-904081130
+
+2019-04-09 14:13:36,150 ERROR 3780 [-/::1/-/7ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find /app/view/list.html from E:\GitHub\egg-2.x-\app\view
+    at Map.resolve (E:\GitHub\egg-2.x-\node_modules\_egg-view@2.1.2@egg-view\lib\view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 3780
+hostname: AFOED-904081130
+
+2019-04-09 14:13:36,805 ERROR 3780 [-/::1/-/0ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find /app/view/list.html from E:\GitHub\egg-2.x-\app\view
+    at Map.resolve (E:\GitHub\egg-2.x-\node_modules\_egg-view@2.1.2@egg-view\lib\view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 3780
+hostname: AFOED-904081130
+
+2019-04-09 14:13:37,005 ERROR 3780 [-/::1/-/1ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find /app/view/list.html from E:\GitHub\egg-2.x-\app\view
+    at Map.resolve (E:\GitHub\egg-2.x-\node_modules\_egg-view@2.1.2@egg-view\lib\view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 3780
+hostname: AFOED-904081130
+
+2019-04-09 14:13:37,181 ERROR 3780 [-/::1/-/0ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find /app/view/list.html from E:\GitHub\egg-2.x-\app\view
+    at Map.resolve (E:\GitHub\egg-2.x-\node_modules\_egg-view@2.1.2@egg-view\lib\view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 3780
+hostname: AFOED-904081130
+
+2019-04-09 14:13:37,349 ERROR 3780 [-/::1/-/0ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find /app/view/list.html from E:\GitHub\egg-2.x-\app\view
+    at Map.resolve (E:\GitHub\egg-2.x-\node_modules\_egg-view@2.1.2@egg-view\lib\view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 3780
+hostname: AFOED-904081130
+
+2019-04-09 14:13:37,974 ERROR 3780 [-/::1/-/1ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find /app/view/list.html from E:\GitHub\egg-2.x-\app\view
+    at Map.resolve (E:\GitHub\egg-2.x-\node_modules\_egg-view@2.1.2@egg-view\lib\view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 3780
+hostname: AFOED-904081130
+
+2019-04-09 14:13:38,414 ERROR 3780 [-/::1/-/0ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find /app/view/list.html from E:\GitHub\egg-2.x-\app\view
+    at Map.resolve (E:\GitHub\egg-2.x-\node_modules\_egg-view@2.1.2@egg-view\lib\view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 3780
+hostname: AFOED-904081130
+
+2019-04-09 14:13:38,990 ERROR 3780 [-/::1/-/0ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find /app/view/list.html from E:\GitHub\egg-2.x-\app\view
+    at Map.resolve (E:\GitHub\egg-2.x-\node_modules\_egg-view@2.1.2@egg-view\lib\view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 3780
+hostname: AFOED-904081130
+
+2019-04-09 14:14:28,487 ERROR 10028 [-/::1/-/6ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find news/list.html from E:\GitHub\egg-2.x-\app\view
+    at Map.resolve (E:\GitHub\egg-2.x-\node_modules\_egg-view@2.1.2@egg-view\lib\view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 10028
+hostname: AFOED-904081130
+
+2019-04-09 14:14:29,138 ERROR 10132 [-/::1/-/6ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find news/list.html from E:\GitHub\egg-2.x-\app\view
+    at Map.resolve (E:\GitHub\egg-2.x-\node_modules\_egg-view@2.1.2@egg-view\lib\view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 10132
+hostname: AFOED-904081130
+
+2019-04-09 14:14:29,307 ERROR 10132 [-/::1/-/0ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find news/list.html from E:\GitHub\egg-2.x-\app\view
+    at Map.resolve (E:\GitHub\egg-2.x-\node_modules\_egg-view@2.1.2@egg-view\lib\view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 10132
+hostname: AFOED-904081130
+
+2019-04-09 14:14:29,477 ERROR 10132 [-/::1/-/1ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find news/list.html from E:\GitHub\egg-2.x-\app\view
+    at Map.resolve (E:\GitHub\egg-2.x-\node_modules\_egg-view@2.1.2@egg-view\lib\view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 10132
+hostname: AFOED-904081130
+
+2019-04-09 14:14:30,133 ERROR 10132 [-/::1/-/0ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find news/list.html from E:\GitHub\egg-2.x-\app\view
+    at Map.resolve (E:\GitHub\egg-2.x-\node_modules\_egg-view@2.1.2@egg-view\lib\view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 10132
+hostname: AFOED-904081130
+
+2019-04-09 14:14:30,692 ERROR 10132 [-/::1/-/0ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find news/list.html from E:\GitHub\egg-2.x-\app\view
+    at Map.resolve (E:\GitHub\egg-2.x-\node_modules\_egg-view@2.1.2@egg-view\lib\view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 10132
+hostname: AFOED-904081130
+
+2019-04-09 14:15:02,465 ERROR 7328 [-/::1/-/6ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find news/list.html from E:\GitHub\egg-2.x-\app\view
+    at Map.resolve (E:\GitHub\egg-2.x-\node_modules\_egg-view@2.1.2@egg-view\lib\view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 7328
+hostname: AFOED-904081130
+
+2019-04-09 14:15:03,407 ERROR 7328 [-/::1/-/1ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find news/list.html from E:\GitHub\egg-2.x-\app\view
+    at Map.resolve (E:\GitHub\egg-2.x-\node_modules\_egg-view@2.1.2@egg-view\lib\view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 7328
+hostname: AFOED-904081130
+
+2019-04-09 14:15:03,902 ERROR 7328 [-/::1/-/0ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find news/list.html from E:\GitHub\egg-2.x-\app\view
+    at Map.resolve (E:\GitHub\egg-2.x-\node_modules\_egg-view@2.1.2@egg-view\lib\view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 7328
+hostname: AFOED-904081130
+
+2019-04-09 14:15:04,367 ERROR 7328 [-/::1/-/1ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find news/list.html from E:\GitHub\egg-2.x-\app\view
+    at Map.resolve (E:\GitHub\egg-2.x-\node_modules\_egg-view@2.1.2@egg-view\lib\view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 7328
+hostname: AFOED-904081130
+
+2019-04-09 14:15:04,910 ERROR 7328 [-/::1/-/0ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find news/list.html from E:\GitHub\egg-2.x-\app\view
+    at Map.resolve (E:\GitHub\egg-2.x-\node_modules\_egg-view@2.1.2@egg-view\lib\view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 7328
+hostname: AFOED-904081130
+
+2019-04-09 14:16:24,646 ERROR 8160 [-/::1/-/7ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find news/list.html from E:\GitHub\egg-2.x-\app\view
+    at Map.resolve (E:\GitHub\egg-2.x-\node_modules\_egg-view@2.1.2@egg-view\lib\view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 8160
+hostname: AFOED-904081130
+
+2019-04-09 14:16:25,127 ERROR 8160 [-/::1/-/1ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find news/list.html from E:\GitHub\egg-2.x-\app\view
+    at Map.resolve (E:\GitHub\egg-2.x-\node_modules\_egg-view@2.1.2@egg-view\lib\view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 8160
+hostname: AFOED-904081130
+
+2019-04-09 14:16:25,430 ERROR 8160 [-/::1/-/1ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find news/list.html from E:\GitHub\egg-2.x-\app\view
+    at Map.resolve (E:\GitHub\egg-2.x-\node_modules\_egg-view@2.1.2@egg-view\lib\view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 8160
+hostname: AFOED-904081130
+
+2019-04-09 14:16:25,645 ERROR 8160 [-/::1/-/0ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find news/list.html from E:\GitHub\egg-2.x-\app\view
+    at Map.resolve (E:\GitHub\egg-2.x-\node_modules\_egg-view@2.1.2@egg-view\lib\view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 8160
+hostname: AFOED-904081130
+
+2019-04-09 14:16:25,957 ERROR 8160 [-/::1/-/0ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find news/list.html from E:\GitHub\egg-2.x-\app\view
+    at Map.resolve (E:\GitHub\egg-2.x-\node_modules\_egg-view@2.1.2@egg-view\lib\view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 8160
+hostname: AFOED-904081130
+
+2019-04-09 14:16:44,128 ERROR 5540 [-/::1/-/7ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find news/list.html from E:\GitHub\egg-2.x-\app\view
+    at Map.resolve (E:\GitHub\egg-2.x-\node_modules\_egg-view@2.1.2@egg-view\lib\view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 5540
+hostname: AFOED-904081130
+
+2019-04-09 14:16:45,479 ERROR 5540 [-/::1/-/1ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find news/list.html from E:\GitHub\egg-2.x-\app\view
+    at Map.resolve (E:\GitHub\egg-2.x-\node_modules\_egg-view@2.1.2@egg-view\lib\view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 5540
+hostname: AFOED-904081130
+
+2019-04-09 14:17:07,672 ERROR 4048 [-/::1/-/6ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find news/list.tpl from E:\GitHub\egg-2.x-\app\view
+    at Map.resolve (E:\GitHub\egg-2.x-\node_modules\_egg-view@2.1.2@egg-view\lib\view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 4048
+hostname: AFOED-904081130
+
+2019-04-09 14:17:08,294 ERROR 8512 [-/::1/-/6ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find news/list.tpl from E:\GitHub\egg-2.x-\app\view
+    at Map.resolve (E:\GitHub\egg-2.x-\node_modules\_egg-view@2.1.2@egg-view\lib\view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 8512
+hostname: AFOED-904081130
+
+2019-04-09 14:17:20,672 ERROR 9504 [-/::1/-/7ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find news/list.tpl from E:\GitHub\egg-2.x-\app\view
+    at Map.resolve (E:\GitHub\egg-2.x-\node_modules\_egg-view@2.1.2@egg-view\lib\view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 9504
+hostname: AFOED-904081130
+
+2019-04-09 14:17:22,240 ERROR 9504 [-/::1/-/1ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find news/list.tpl from E:\GitHub\egg-2.x-\app\view
+    at Map.resolve (E:\GitHub\egg-2.x-\node_modules\_egg-view@2.1.2@egg-view\lib\view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 9504
+hostname: AFOED-904081130
+
+2019-04-09 14:17:26,793 ERROR 9504 [-/::1/-/0ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find news/list.tpl from E:\GitHub\egg-2.x-\app\view
+    at Map.resolve (E:\GitHub\egg-2.x-\node_modules\_egg-view@2.1.2@egg-view\lib\view_manager.js:74:5)
+    at <anonymous>
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: undefined
+expected: true
+operator: "=="
+pid: 9504
+hostname: AFOED-904081130
+
+2019-04-09 15:32:43,163 ERROR 5856 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TCP.onread (net.js:628:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 5856
+hostname: AFOED-904081130
+
+2019-04-09 16:11:12,352 ERROR 8260 [-/::1/-/6ms GET /news] nodejs.TypeError: dataList.map is not a function
+    at NewsController.index (E:\GitHub\egg-2.x-\app\controller\news.js:16:38)
+    at Object.callFn (E:\GitHub\egg-2.x-\node_modules\_egg-core@4.16.1@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\GitHub\egg-2.x-\node_modules\_egg-core@4.16.1@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 8260
+hostname: AFOED-904081130
+
+2019-04-09 16:11:13,312 ERROR 8260 [-/::1/-/1ms GET /news] nodejs.TypeError: dataList.map is not a function
+    at NewsController.index (E:\GitHub\egg-2.x-\app\controller\news.js:16:38)
+    at Object.callFn (E:\GitHub\egg-2.x-\node_modules\_egg-core@4.16.1@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\GitHub\egg-2.x-\node_modules\_egg-core@4.16.1@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 8260
+hostname: AFOED-904081130
+
+2019-04-09 16:11:13,604 ERROR 8260 [-/::1/-/1ms GET /news] nodejs.TypeError: dataList.map is not a function
+    at NewsController.index (E:\GitHub\egg-2.x-\app\controller\news.js:16:38)
+    at Object.callFn (E:\GitHub\egg-2.x-\node_modules\_egg-core@4.16.1@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\GitHub\egg-2.x-\node_modules\_egg-core@4.16.1@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 8260
+hostname: AFOED-904081130
+
+2019-04-09 16:11:13,856 ERROR 8260 [-/::1/-/0ms GET /news] nodejs.TypeError: dataList.map is not a function
+    at NewsController.index (E:\GitHub\egg-2.x-\app\controller\news.js:16:38)
+    at Object.callFn (E:\GitHub\egg-2.x-\node_modules\_egg-core@4.16.1@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\GitHub\egg-2.x-\node_modules\_egg-core@4.16.1@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 8260
+hostname: AFOED-904081130
+
+2019-04-09 16:12:03,626 ERROR 664 [-/::1/-/6ms GET /news] nodejs.ReferenceError: dataListMap is not defined
+    at NewsController.index (E:\GitHub\egg-2.x-\app\controller\news.js:18:49)
+    at Object.callFn (E:\GitHub\egg-2.x-\node_modules\_egg-core@4.16.1@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\GitHub\egg-2.x-\node_modules\_egg-core@4.16.1@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 664
+hostname: AFOED-904081130
+
+2019-04-09 16:12:05,617 ERROR 11068 [-/::1/-/5ms GET /news] nodejs.ReferenceError: dataListMap is not defined
+    at NewsController.index (E:\GitHub\egg-2.x-\app\controller\news.js:18:49)
+    at Object.callFn (E:\GitHub\egg-2.x-\node_modules\_egg-core@4.16.1@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\GitHub\egg-2.x-\node_modules\_egg-core@4.16.1@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 11068
+hostname: AFOED-904081130
+
+2019-04-09 16:12:10,753 ERROR 11068 [-/::1/-/0ms GET /news] nodejs.ReferenceError: dataListMap is not defined
+    at NewsController.index (E:\GitHub\egg-2.x-\app\controller\news.js:18:49)
+    at Object.callFn (E:\GitHub\egg-2.x-\node_modules\_egg-core@4.16.1@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\GitHub\egg-2.x-\node_modules\_egg-core@4.16.1@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 11068
+hostname: AFOED-904081130
+
+2019-04-10 12:03:51,816 ERROR 9276 nodejs.ClusterClientNoResponseError: client no response in 203831ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (E:\GitHub\egg-2.x-\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+name: "ClusterClientNoResponseError"
+pid: 9276
+hostname: AFOED-904081130
+
+2019-04-10 12:49:27,788 ERROR 9276 nodejs.ClusterClientNoResponseError: client no response in 815881ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (E:\GitHub\egg-2.x-\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+name: "ClusterClientNoResponseError"
+pid: 9276
+hostname: AFOED-904081130
+
+2019-04-10 14:52:30,419 ERROR 9356 [-/::1/-/6ms GET /] nodejs.TypeError: Cannot read property 'test' of undefined
+    at HomeController.index (E:\GitHub\egg-2.x-\app\controller\home.js:7:59)
+    at Object.callFn (E:\GitHub\egg-2.x-\node_modules\_egg-core@4.16.1@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\GitHub\egg-2.x-\node_modules\_egg-core@4.16.1@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 9356
+hostname: AFOED-904081130
+
+2019-04-10 14:52:31,328 ERROR 9356 [-/::1/-/1ms GET /] nodejs.TypeError: Cannot read property 'test' of undefined
+    at HomeController.index (E:\GitHub\egg-2.x-\app\controller\home.js:7:59)
+    at Object.callFn (E:\GitHub\egg-2.x-\node_modules\_egg-core@4.16.1@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\GitHub\egg-2.x-\node_modules\_egg-core@4.16.1@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 9356
+hostname: AFOED-904081130
+
+2019-04-10 15:00:12,362 ERROR 9356 [-/::1/-/1ms GET /] nodejs.TypeError: Cannot read property 'test' of undefined
+    at HomeController.index (E:\GitHub\egg-2.x-\app\controller\home.js:7:59)
+    at Object.callFn (E:\GitHub\egg-2.x-\node_modules\_egg-core@4.16.1@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\GitHub\egg-2.x-\node_modules\_egg-core@4.16.1@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 9356
+hostname: AFOED-904081130
+
+2019-04-10 15:00:12,911 ERROR 8276 [-/::1/-/5ms GET /] nodejs.TypeError: this.ctx.objEXp is not a function
+    at HomeController.index (E:\GitHub\egg-2.x-\app\controller\home.js:7:52)
+    at Object.callFn (E:\GitHub\egg-2.x-\node_modules\_egg-core@4.16.1@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\GitHub\egg-2.x-\node_modules\_egg-core@4.16.1@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 8276
+hostname: AFOED-904081130
+
+2019-04-10 15:00:14,098 ERROR 8172 [-/::1/-/14ms GET /] nodejs.TypeError: this.ctx.objEXp is not a function
+    at HomeController.index (E:\GitHub\egg-2.x-\app\controller\home.js:7:52)
+    at Object.callFn (E:\GitHub\egg-2.x-\node_modules\_egg-core@4.16.1@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\GitHub\egg-2.x-\node_modules\_egg-core@4.16.1@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 8172
+hostname: AFOED-904081130
+
+2019-04-10 15:42:43,283 ERROR 5964 [-/::1/-/8ms GET /index] nodejs.AssertionError [ERR_ASSERTION]: status code must be a number
+    at Object.set status [as status] (E:\GitHub\egg-2.x-\node_modules\_koa@2.7.0@koa\lib\response.js:86:5)
+    at Object.status (E:\GitHub\egg-2.x-\node_modules\_delegates@1.0.0@delegates\index.js:92:31)
+    at Object.all.ctx (E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:364:18)
+    at Object.callFn (E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: false
+expected: true
+operator: "=="
+pid: 5964
+hostname: AFOED-904081130
+
+2019-04-10 15:42:45,019 ERROR 4072 [-/::1/-/9ms GET /index] nodejs.AssertionError [ERR_ASSERTION]: status code must be a number
+    at Object.set status [as status] (E:\GitHub\egg-2.x-\node_modules\_koa@2.7.0@koa\lib\response.js:86:5)
+    at Object.status (E:\GitHub\egg-2.x-\node_modules\_delegates@1.0.0@delegates\index.js:92:31)
+    at Object.all.ctx (E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:364:18)
+    at Object.callFn (E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: false
+expected: true
+operator: "=="
+pid: 4072
+hostname: AFOED-904081130
+
+2019-04-10 15:43:04,558 ERROR 4072 [-/::1/-/1ms GET /index] nodejs.AssertionError [ERR_ASSERTION]: status code must be a number
+    at Object.set status [as status] (E:\GitHub\egg-2.x-\node_modules\_koa@2.7.0@koa\lib\response.js:86:5)
+    at Object.status (E:\GitHub\egg-2.x-\node_modules\_delegates@1.0.0@delegates\index.js:92:31)
+    at Object.all.ctx (E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:364:18)
+    at Object.callFn (E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at E:\GitHub\egg-2.x-\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at E:\GitHub\egg-2.x-\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+generatedMessage: false
+name: "AssertionError [ERR_ASSERTION]"
+code: "ERR_ASSERTION"
+actual: false
+expected: true
+operator: "=="
+pid: 4072
+hostname: AFOED-904081130
+
+2019-04-10 16:52:30,972 ERROR 10104 nodejs.unhandledExceptionError: read ECONNRESET
+    at _errnoException (util.js:1022:11)
+    at TCP.onread (net.js:628:25)
+code: "ECONNRESET"
+errno: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 10104
+hostname: AFOED-904081130
+
+2019-04-11 08:41:33,669 ERROR 10104 nodejs.ClusterClientNoResponseError: client no response in 51524838ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (E:\GitHub\egg-2.x-\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at ontimeout (timers.js:482:11)
+    at tryOnTimeout (timers.js:317:5)
+    at Timer.listOnTimeout (timers.js:277:5)
+name: "ClusterClientNoResponseError"
+pid: 10104
+hostname: AFOED-904081130
+

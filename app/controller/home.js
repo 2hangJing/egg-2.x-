@@ -4,7 +4,7 @@ class HomeController extends Controller{
     
     async index(){
 
-        this.ctx.body = "Hellow Egg.js";
+        await this.ctx.render("index/index.html", {id:10 , class: {name: "张京"}});
     }
 }
 

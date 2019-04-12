@@ -1,0 +1,48 @@
+
+<html>
+    <head>
+        <title>Hacker News</title>
+        <link rel="stylesheet" href="../../public/css/list.css">
+    </head>
+    <script src="../../public/js/list.js"></script>
+    <script src=""></script>
+    <body>
+        <a href="/news/8">点击跳转</a>
+
+        <button>请求Egg Post</button>
+        
+        <p>模板加载的数据位 {{id}}</p>
+        {% include "../compoment/public_imgConten.html" %}
+        
+    </body>
+    <script>
+    
+        let btn = document.querySelector("button");
+
+        btn.addEventListener("click", function(){
+
+            let xmlHttp = new XMLHttpRequest();
+
+            xmlHttp.onreadystatechange = function(){
+
+                if( xmlHttp.readyState ==4 && xmlHttp.status == 200){      
+
+                    let xmlHttpObj = JSON.parse(xmlHttp.response);
+
+                    let selectA = document.querySelector("a");
+                    
+                    selectA.innerText = xmlHttpObj.title;
+                }
+            }
+
+            xmlHttp.open("POST", "http://localhost:7001/api/postTitle", true);
+
+            xmlHttp.setRequestHeader("Content-Type","application/json");
+
+            xmlHttp.send(JSON.stringify({title: "前台发送的请求 "}));
+            
+        }, false);
+    
+    </script>
+
+</html>

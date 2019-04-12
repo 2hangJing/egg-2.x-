@@ -2,15 +2,16 @@
 
     <head>
         <title>Hacker News</title>
+        <link rel="stylesheet" href="../../public/css/list.css">
     </head>
-
+    <script src="../../public/js/list.js"></script>
     <body>
         <ul class="news-view view">
-            <h2>sss</h2>
             {% for item in list %}
             <li class="item">
                 <h3>{{ item.title }}</h3>
                 <p>{{ helper.loaclTime(item.creationTime) }}</p>
+                <p>{{ item.creationTime }}</p>
                 <!-- <img src="{{ item.thumbnailImg }}" alt=""> -->
             </li>
             {% endfor %}

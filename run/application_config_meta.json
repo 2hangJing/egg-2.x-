@@ -13,26 +13,11 @@
     "pageSize": "E:\\GitHub\\egg-2.x-\\config\\config.default.js",
     "serverUrl": "E:\\GitHub\\egg-2.x-\\config\\config.default.js"
   },
-  "session": {
-    "maxAge": "E:\\GitHub\\egg-2.x-\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js",
-    "key": "E:\\GitHub\\egg-2.x-\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js",
-    "httpOnly": "E:\\GitHub\\egg-2.x-\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js",
-    "encrypt": "E:\\GitHub\\egg-2.x-\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js"
-  },
   "security": {
+    "csrf": "E:\\GitHub\\egg-2.x-\\config\\config.default.js",
     "domainWhiteList": "E:\\GitHub\\egg-2.x-\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
     "protocolWhiteList": "E:\\GitHub\\egg-2.x-\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
     "defaultMiddleware": "E:\\GitHub\\egg-2.x-\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
-    "csrf": {
-      "enable": "E:\\GitHub\\egg-2.x-\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
-      "useSession": "E:\\GitHub\\egg-2.x-\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
-      "ignoreJSON": "E:\\GitHub\\egg-2.x-\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
-      "cookieName": "E:\\GitHub\\egg-2.x-\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
-      "sessionName": "E:\\GitHub\\egg-2.x-\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
-      "headerName": "E:\\GitHub\\egg-2.x-\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
-      "bodyName": "E:\\GitHub\\egg-2.x-\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
-      "queryName": "E:\\GitHub\\egg-2.x-\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js"
-    },
     "xframe": {
       "enable": "E:\\GitHub\\egg-2.x-\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
       "value": "E:\\GitHub\\egg-2.x-\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js"
@@ -70,6 +55,12 @@
       "ipBlackList": "E:\\GitHub\\egg-2.x-\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js",
       "checkAddress": "E:\\GitHub\\egg-2.x-\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js"
     }
+  },
+  "session": {
+    "maxAge": "E:\\GitHub\\egg-2.x-\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js",
+    "key": "E:\\GitHub\\egg-2.x-\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js",
+    "httpOnly": "E:\\GitHub\\egg-2.x-\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js",
+    "encrypt": "E:\\GitHub\\egg-2.x-\\node_modules\\_egg-session@3.1.0@egg-session\\config\\config.default.js"
   },
   "helper": {
     "shtml": "E:\\GitHub\\egg-2.x-\\node_modules\\_egg-security@2.5.0@egg-security\\config\\config.default.js"
