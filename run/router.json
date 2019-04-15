@@ -98,6 +98,19 @@
       "GET"
     ],
     "paramNames": [],
+    "path": "/libExtend",
+    "regexp": "/^\\/libExtend(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
     "path": "/api/getTitle",
     "regexp": "/^\\/api\\/getTitle(?:\\/(?=$))?$/",
     "stack": [

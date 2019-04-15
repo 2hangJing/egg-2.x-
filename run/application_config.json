@@ -93,6 +93,7 @@
         "E:\\GitHub\\egg-2.x-\\node_modules\\_egg-logrotator@3.0.7@egg-logrotator\\config\\locales",
         "E:\\GitHub\\egg-2.x-\\node_modules\\_egg-static@2.2.0@egg-static\\config\\locales",
         "E:\\GitHub\\egg-2.x-\\node_modules\\_egg-view@2.1.2@egg-view\\config\\locales",
+        "E:\\GitHub\\egg-2.x-\\lib\\plugin\\egg-zj\\config\\locales",
         "E:\\GitHub\\egg-2.x-\\node_modules\\_egg-view-nunjucks@2.2.0@egg-view-nunjucks\\config\\locales",
         "E:\\GitHub\\egg-2.x-\\node_modules\\_egg@2.20.2@egg\\config\\locales",
         "E:\\GitHub\\egg-2.x-\\config\\locales"
@@ -481,6 +482,15 @@
       "from": "E:\\GitHub\\egg-2.x-\\node_modules\\_egg@2.20.2@egg\\config\\plugin.js",
       "path": "E:\\GitHub\\egg-2.x-\\node_modules\\_egg-view@2.1.2@egg-view",
       "version": "2.1.2"
+    },
+    "zj": {
+      "enable": true,
+      "path": "E:\\GitHub\\egg-2.x-\\lib\\plugin\\egg-zj",
+      "name": "zj",
+      "dependencies": [],
+      "optionalDependencies": [],
+      "env": [],
+      "from": "E:\\GitHub\\egg-2.x-\\config\\plugin.js"
     },
     "nunjucks": {
       "enable": true,
