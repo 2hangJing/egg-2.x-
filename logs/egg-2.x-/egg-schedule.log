@@ -146,3 +146,11 @@
 2019-04-15 17:37:16,738 INFO 1688 [egg-schedule]: register schedule E:\GitHub\egg-2.x-\node_modules\_egg-logrotator@3.0.7@egg-logrotator\app\schedule\rotate_by_file.js
 2019-04-15 17:37:17,785 INFO 9708 [egg-schedule]: register schedule E:\GitHub\egg-2.x-\node_modules\_egg-logrotator@3.0.7@egg-logrotator\app\schedule\clean_log.js
 2019-04-15 17:37:17,785 INFO 9708 [egg-schedule]: register schedule E:\GitHub\egg-2.x-\node_modules\_egg-logrotator@3.0.7@egg-logrotator\app\schedule\rotate_by_file.js
+2019-05-27 10:27:07,177 INFO 9160 [Timer] E:\GitHub\egg-2.x-\node_modules\_egg-logrotator@3.0.7@egg-logrotator\app\schedule\clean_log.js next time will execute after 48772826ms at 2019-05-28 00:00:00.003
+2019-05-27 10:27:07,177 INFO 9160 [Timer] E:\GitHub\egg-2.x-\node_modules\_egg-logrotator@3.0.7@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 48773823ms at 2019-05-28 00:00:01.000
+2019-05-27 10:27:07,035 INFO 12076 [egg-schedule]: register schedule E:\GitHub\egg-2.x-\node_modules\_egg-logrotator@3.0.7@egg-logrotator\app\schedule\clean_log.js
+2019-05-27 10:27:07,035 INFO 12076 [egg-schedule]: register schedule E:\GitHub\egg-2.x-\node_modules\_egg-logrotator@3.0.7@egg-logrotator\app\schedule\rotate_by_file.js
+2019-05-27 10:31:44,044 INFO 6736 [Timer] E:\GitHub\egg-2.x-\node_modules\_egg-logrotator@3.0.7@egg-logrotator\app\schedule\clean_log.js next time will execute after 48495958ms at 2019-05-28 00:00:00.002
+2019-05-27 10:31:44,044 INFO 6736 [Timer] E:\GitHub\egg-2.x-\node_modules\_egg-logrotator@3.0.7@egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 48496956ms at 2019-05-28 00:00:01.000
+2019-05-27 10:31:43,930 INFO 10464 [egg-schedule]: register schedule E:\GitHub\egg-2.x-\node_modules\_egg-logrotator@3.0.7@egg-logrotator\app\schedule\clean_log.js
+2019-05-27 10:31:43,930 INFO 10464 [egg-schedule]: register schedule E:\GitHub\egg-2.x-\node_modules\_egg-logrotator@3.0.7@egg-logrotator\app\schedule\rotate_by_file.js

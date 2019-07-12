@@ -43,6 +43,7 @@
       "REBIND",
       "REPORT",
       "SEARCH",
+      "SOURCE",
       "SUBSCRIBE",
       "TRACE",
       "UNBIND",

@@ -5,7 +5,7 @@
         <link rel="stylesheet" href="../../public/css/list.css">
     </head>
     <script src="../../public/js/list.js"></script>
-    <script src=""></script>
+    <script src='https://cdn.staticfile.org/jquery/3.4.1/jquery.min.js'></script>
     <body>
         <a href="/libExtend">扩展插件测试</a>
 
@@ -37,7 +37,7 @@
                 }
             }
 
-            xmlHttp.open("POST", "http://localhost:7001/api/postTitle", true);
+            xmlHttp.open("POST", "http://127.0.0.1:8080/api/postTitle", true);
 
             xmlHttp.setRequestHeader("Content-Type","application/json");
 
